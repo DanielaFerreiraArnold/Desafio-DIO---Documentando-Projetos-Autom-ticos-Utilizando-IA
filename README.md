@@ -1,4 +1,4 @@
-# Desafio-DIO---Documentando-Projetos-Autom-ticos-Utilizando-IA
+# Desafio-DIO: Documentando Projetos Automáticos Utilizando IA
 
 # Toyota Sales Analytics
 
